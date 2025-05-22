@@ -32,21 +32,16 @@ I'm a **Computer Engineering graduate** with a strong foundation in **embedded s
 ## 📌 Highlight Projects
 
 - 🔍 **Stereo Vision Object Detection and Collision Avoidance**  
-  *(Project coming soon!)*  
+
   Designed a **stereo vision system** using **OpenCV** and **Python** to calculate depth for **autonomous navigation**.  
   👉 Implemented on **Raspberry Pi** with distributed processing, focused on real-time responsiveness and **safety systems**.
 
 - 🚗 **Internet of Vehicles Smart System**  
-  *(Project coming soon!)*  
+  
   Developed a **microcontroller-driven collision detection module**, integrated with **GPS** and **mobile alerts**.  
   👉 Focused on **real-time data collection**, communication protocols, and **power-efficient hardware design**.
 
-- 💻 **Web-Based Business Application (MVC.NET)**  
-  *(Project coming soon!)*  
-  Created scalable web tools using **MVC.NET**, **Visual Basic**, and **MySQL** for enterprise use.  
-  👉 Developed interactive UIs to improve **client workflow efficiency** using **HTML**, **CSS**, and **JavaScript**.
 
----
 
 ## 🌱 Currently Exploring
 
